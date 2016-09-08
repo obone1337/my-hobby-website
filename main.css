@@ -1,0 +1,148 @@
+body {
+    max-width: 1000px;
+    background-image: url("001.jpg");
+    background-repeat: no-repeat;
+    webkit-background-size: cover;
+    moz-background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+
+h1 {
+    color: #ffffff;
+    text-shadow: 4px 4px #660066;
+    text-align: center;
+    font-family:'Oswald', sans-serif;
+    font-size: 50px;
+}
+
+h2 {
+    color: #ffffff;
+    text-shadow: 4px 4px #660066;
+    text-align: left;
+    font-family:'Oswald', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+p {
+    color: #ffffff;
+    font-family: arial;
+    text-align: left;
+    text-shadow: 2px 2px #660066;
+    font-size: 25px;
+    line-height: 2;
+    border-style: inset;
+    border-color: purple;
+
+}
+
+p2 {
+    color: #660066;
+    font-family: arial;
+    text-align: left;
+    text-shadow: 2px 2px #000000;
+    font-size: 20px;
+    line-height: 2;
+    max-width: 600px
+}
+
+h3 {
+    color: #ffffff;
+    text-shadow: 4px 4px #660066;
+    text-align: left;
+    font-family:'Oswald', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+p3 {
+    color: #660066;
+    font-family: arial;
+    text-align: left;
+    font-size: 20px;
+    text-shadow: 2px 2px #000000;
+    line-height: 2;
+    max-width: 500px
+
+}
+
+h4 {
+    color: #ffffff;
+    text-shadow: 4px 4px #660066;
+    text-align: center;
+    font-family:'Oswald', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+h5 {
+    color: #ffffff;
+    text-shadow: 4px 4px #660066;
+    text-align: center;
+    font-family:'Oswald', sans-serif;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+p4 {
+    color: #660066;
+    font-family: arial;
+    text-align: left;
+    font-size: 20px;
+    text-shadow: 2px 2px #000000;
+    line-height: 2;
+}
+
+p5 {
+    color: #660066;
+    font-family: arial;
+    text-align: left;
+    font-size: 20px;
+    text-shadow: 2px 2px #000000;
+    line-height: 2;
+}
+
+h6 {
+    color: #ffffff;
+    text-shadow: 4px 4px #660066;
+    text-align: left;
+    font-family:'Oswald', sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+img {
+    max-width: 100%
+
+}
+
+a:link {
+    color: purple;
+    text-decoration: none;
+}
+
+a:visited {
+    color: grey;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #990099;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:active {
+    color: purple;
+    text-decoration: none;
+}
